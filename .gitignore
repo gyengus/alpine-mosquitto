@@ -1,4 +1,3 @@
 logs/*.log
 console.sh
-mosquitto.conf
 docker-compose.yml
