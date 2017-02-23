@@ -1,6 +1,6 @@
-#Mosquitto MQTT broker in Alpine Docker container
+# Mosquitto MQTT broker in Alpine Docker container
 
-##Usage
+## Usage
 
 1. First you need to create a mosquitto.conf file, check out the mosquitto.default.conf.
 2. Look at docker-compose.example.yml, it's a sample yml file for docker-compose.
