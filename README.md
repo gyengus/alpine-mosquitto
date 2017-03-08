@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. First you need to create a mosquitto.conf file, check out the mosquitto.default.conf.
+1. The mosquitto.conf file is a default config for Mosquitto. If you want, modify it.
 2. Look at docker-compose.example.yml, it's a sample yml file for docker-compose.
 3. If you created a docker-compose.yml, you can run the image by the
 ```bash
