@@ -1,9 +1,13 @@
-version: "2"
+version: "3"
 
 services:
   mqtt:
-    build: .
+    image: gyengus/alpine-mosquitto
+    restart: always
+    hostname: mqtt
     volumes:
+      - ./conf:/conf
       - ./logs:/var/log
     ports:
     - "1883:1883"
+    - "1884:1884"
