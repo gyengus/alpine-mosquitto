@@ -1,7 +1,7 @@
 
 # Mosquitto MQTT broker in Alpine Docker container
 
-[![Docker Stars](https://img.shields.io/docker/automated/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Stars](https://img.shields.io/docker/stars/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Pulls](https://img.shields.io/docker/pulls/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K5PAV5V7WGWFL)
+[![Docker Build](https://img.shields.io/docker/automated/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Stars](https://img.shields.io/docker/stars/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Pulls](https://img.shields.io/docker/pulls/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K5PAV5V7WGWFL)
 
 ## Usage
 
