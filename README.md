@@ -1,5 +1,7 @@
-[![Gratipay User](https://img.shields.io/gratipay/user/gyengus.svg?style=flat)](https://gratipay.com/~gyengus/) [![Docker Stars](https://img.shields.io/docker/automated/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Stars](https://img.shields.io/docker/stars/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Pulls](https://img.shields.io/docker/pulls/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) 
+
 # Mosquitto MQTT broker in Alpine Docker container
+
+[![Docker Stars](https://img.shields.io/docker/automated/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Stars](https://img.shields.io/docker/stars/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Docker Pulls](https://img.shields.io/docker/pulls/gyengus/alpine-mosquitto.svg?style=flat)](https://hub.docker.com/r/gyengus/alpine-mosquitto/) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K5PAV5V7WGWFL)
 
 ## Usage
 
@@ -25,3 +27,8 @@ services:
 docker-compose up -d
 ```
 command.
+
+## Donations
+- PayPal: https://paypal.me/gyengus
+- Bitcoin: 1QJzLBK9uQP4RthmKJRQwy3v5sd4XS4S7P
+- Ethereum: 0x2bD68120A56acBf6Dbd11da2060228b8912C1e3C
