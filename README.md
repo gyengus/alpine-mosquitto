@@ -31,4 +31,5 @@ command.
 ## Donations
 - PayPal: https://paypal.me/gyengus
 - Bitcoin: 1QJzLBK9uQP4RthmKJRQwy3v5sd4XS4S7P
+- Bitcoin Cash: qp04tazu4fe7lv6zr99suu40swqqp747nsm0kcfckv
 - Ethereum: 0x2bD68120A56acBf6Dbd11da2060228b8912C1e3C
